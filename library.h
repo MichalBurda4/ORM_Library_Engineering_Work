@@ -1,0 +1,6 @@
+#ifndef ORM_LIBRARY_LIBRARY_H
+#define ORM_LIBRARY_LIBRARY_H
+
+void hello();
+
+#endif //ORM_LIBRARY_LIBRARY_H

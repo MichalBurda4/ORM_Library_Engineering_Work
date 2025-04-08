@@ -1,0 +1,3 @@
+C:/Users/micha/OneDrive/Desktop/Studia/Praca Inzynierska/ORM-Library/cmake-build-debug/CMakeFiles/ORM_Library.dir
+C:/Users/micha/OneDrive/Desktop/Studia/Praca Inzynierska/ORM-Library/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/micha/OneDrive/Desktop/Studia/Praca Inzynierska/ORM-Library/cmake-build-debug/CMakeFiles/rebuild_cache.dir
